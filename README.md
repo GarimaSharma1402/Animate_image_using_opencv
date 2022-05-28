@@ -1,4 +1,4 @@
-Steps used in animating a given image:
+Steps used in animating the given image:
 ```
  (i)   Import opencv and numpy libraries
  (ii)  Read image and convert it to edge-only image or sketch image
