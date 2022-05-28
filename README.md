@@ -6,8 +6,7 @@ Steps used in animating the given image:
  (iv)  Add required blur to painting-like image and finally mask the sketch image onto the blurred painting image.
  (v)   Save the animated image.
  ```
- Edge-only image or sketch image:
- ![sketch](https://user-images.githubusercontent.com/68592332/170841681-e9072ff1-3b6b-4e96-a493-e1ed9cb6565f.JPG)
+ Edge-only image or sketch image: ![sketch](https://user-images.githubusercontent.com/68592332/170841681-e9072ff1-3b6b-4e96-a493-e1ed9cb6565f.JPG)
  
  
  Quantised image or painting image:
