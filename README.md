@@ -6,6 +6,9 @@ Steps used in animating the given image:
  (iv)  Add required blur to painting-like image and finally mask the sketch image onto the blurred painting image.
  (v)   Save the animated image.
  ```
+ Original image:        
+ ![image](https://user-images.githubusercontent.com/68592332/170841980-f1751dfa-3f3d-48f5-a989-88f1b8cfeca2.jpg)
+           
  Edge-only image or sketch image:       
  ![sketch](https://user-images.githubusercontent.com/68592332/170841681-e9072ff1-3b6b-4e96-a493-e1ed9cb6565f.JPG)
      
